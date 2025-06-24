@@ -1,2 +1,2 @@
 # stop-watch
-(View stopwatch.html)(./stopwatch.html)
+[View stopwatch.html](./stopwatch.html)
